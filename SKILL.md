@@ -4,7 +4,7 @@ description: Map the three-way interaction between person (cognitive/affective s
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4805
+  version: 1.0.4806
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - reciprocal-determinism-analysis
